@@ -1,5 +1,13 @@
 # Banking Digital Frontend
 
+## Features
+
+* Connect with Wallet
+* Deposit ETH from Wallet to platform
+* Withdraw ETH from platform to Wallet
+* Exchange between ETH and platform token (FLIP)
+* Add Liqudity
+
 ## UI Screens for Demo
 
 * Prior connect Wallet
