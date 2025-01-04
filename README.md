@@ -1,4 +1,4 @@
-# Banking Digital Frontend
+# VBanking Frontend
 
 ## Features
 
@@ -17,3 +17,7 @@
 * After connect Wallet
 
 ![UI Screen 2](./public/ui-example-01.png)
+
+## Application Architecture
+
+![VBank Architecture](./web3-VBank%20Architecture.drawio.png)
